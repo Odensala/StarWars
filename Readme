@@ -1,4 +1,5 @@
 There's some things I didn't have enough time to do:
 - Display character names
+- Timeout error handling
 - Unit tests
 - DI with Dagger Hilt
